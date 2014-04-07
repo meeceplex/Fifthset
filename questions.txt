@@ -1,0 +1,31 @@
+0.  BMP:    16,000,000
+    GIF:    256
+    JPEG:   16,000,000
+    PNG:    256,000,000,000
+    
+1.  GIF
+
+2.  Lossless compression retains all the original data when uncompressed. Lossy compression discards
+    a part of the original data when compressing. This data is unretrievable.
+    
+3.  JPEG
+
+4.  The system modifies the filename's first character in the file's directory entry to signal that
+    the file has been deleted. Also, the system moves all of the file's FAT clusters to the hard drive's
+    list of free clusters
+    
+5.  I could overwrite the actual file, ideally with one of several "Gutmann patterns."
+
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
